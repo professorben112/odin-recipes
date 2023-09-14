@@ -2,3 +2,25 @@ img.recipe-img {
     height: 200px;
     width: auto;
 }
+
+h1 {
+    background-color: darkblue;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.recipe-list {
+    margin: 0px auto;
+    text-align: center;
+}
+
+ul.recipe-list {
+    list-style: none;
+}
+
+ul.recipe-list li {
+    margin: 10px 10px;
+    border: black solid 2px;
+    padding: 10px;
+    width: 300px;
+}
